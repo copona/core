@@ -3,9 +3,6 @@
   "type": "library",
   "description": "Copona Core",
   "bin": ["bin/copona"],
-  "config": {
-    "bin-dir": "./"
-  },
   "keywords": [
     "copona",
     "ecommerce",
@@ -35,12 +32,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Copona\\": "./src",
-      "Copona\\System\\": "/system/",
-      "Copona\\System\\Library\\": "/system/library/",
-      "Copona\\System\\Engine\\": "/system/engine/",
-      "Extension\\": "/extensions/",
-      "Theme\\": "/themes/"
+      "Copona\\": "./src"
     }
   }
 }
