@@ -1,0 +1,3 @@
+# Copona Core
+
+* Copona CLI
