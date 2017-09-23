@@ -31,7 +31,8 @@
     "illuminate/support": "5.4.*",
     "twig/twig": "~1.0",
     "symfony/finder": "^3.3",
-    "symfony/console": "^3.0"
+    "symfony/console": "^3.0",
+    "prhost/composer-vendor-merge": "^0.1"
   },
   "autoload": {
     "psr-4": {
