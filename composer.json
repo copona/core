@@ -33,7 +33,7 @@
     "symfony/finder": "^3.3",
     "symfony/console": "^3.0",
     "prhost/composer-vendor-merge": "^0.1",
-    "copona/composer-installers": "dev-master"
+    "copona/composer-installers": "^0.1"
   },
   "autoload": {
     "psr-4": {
