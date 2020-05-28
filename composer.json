@@ -32,7 +32,7 @@
     "phpfastcache/phpfastcache": "^6.0",
     "nesbot/carbon": "^1.22",
     "plasticbrain/php-flash-messages": "^1.0",
-    "phpmailer/phpmailer": "^6.1"
+    "phpmailer/phpmailer": "^6.1.6"
   },
   "autoload": {
     "psr-4": {
