@@ -19,7 +19,7 @@
     "robmorgan/phinx": "^0.10",
     "filp/whoops": "^2.1",
     "hassankhan/config": "^0.10.0",
-    "laravel/framework": "^5.8",
+    "laravel/framework": "^6.20",
     "twig/twig": "~2.0",
     "symfony/finder": "^4.0",
     "symfony/console": "^4.0",
