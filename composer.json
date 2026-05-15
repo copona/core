@@ -28,7 +28,6 @@
     "prhost/composer-vendor-merge": "^0.1",
     "copona/composer-installers": "^0.3",
     "phpfastcache/phpfastcache": "^8.0",
-    "plasticbrain/php-flash-messages": "^1.0",
     "phpmailer/phpmailer": "^6.1.6"
   },
   "autoload": {
