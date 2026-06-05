@@ -22,7 +22,7 @@
     "filp/whoops": "^2.1",
     "hassankhan/config": "^3.0",
     "laravel/framework": "^10.48",
-    "twig/twig": "^2.0 || ^3.0",
+    "twig/twig": "^3.26",
     "symfony/finder": "^6.0 || ^7.0",
     "symfony/console": "^6.0 || ^7.0",
     "prhost/composer-vendor-merge": "^0.1",
