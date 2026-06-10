@@ -35,5 +35,13 @@
     "psr-4": {
       "Copona\\": "./src"
     }
+  },
+  "config": {
+    "allow-plugins": {
+      "copona/composer-installers": true
+    },
+    "platform": {
+      "php": "8.3"
+    }
   }
 }
